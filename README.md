@@ -33,7 +33,7 @@ I'm a security and AI engineer. Most of my projects come down to one question: *
 - Fleet map, compliance checks, executive and technical reports, and offline Q&A, all running in the browser with no backend.
 - **TypeScript + React**, Zustand for state, Recharts, Framer Motion, Firebase.
 
-[Live demo ↗](https://tunnlescope.vercel.app) · [Repository](https://github.com/Chandankumar775/tunnlescope)
+[Live demo ↗](https://tunnlescope.vercel.app) · [Repository](https://github.com/Chandankumar775/tunnelscope)
 </details>
 
 <br>
@@ -49,12 +49,12 @@ I'm a security and AI engineer. Most of my projects come down to one question: *
 - Live mode re-detects arbitrage on random-walk prices every tick. Hover tracing links the data tables to the 3D model.
 - **Three.js / WebGL** with procedural canvas textures and no image assets.
 
-[Live demo ↗](https://model-analysis-for-the-arbitage-sys.vercel.app) · [Repository](https://github.com/Chandankumar775/model-analysis-for-the-arbitage-system-)
+[Live demo ↗](https://model-analysis-for-the-arbitage-sys.vercel.app) · [Repository](https://github.com/Chandankumar775/arbitrage-detector-3d)
 </details>
 
 <br>
 
-<a href="https://github.com/Chandankumar775/credtech-by-chandan-kumar-"><img src="assets/sheets/05-credtech.svg" alt="CredTech: credit scores that explain themselves, feature by feature" width="100%"></a>
+<a href="https://github.com/Chandankumar775/creditclarity"><img src="assets/sheets/05-credtech.svg" alt="CredTech: credit scores that explain themselves, feature by feature" width="100%"></a>
 
 <details>
 <summary><b>How it's built</b> · CredTech</summary>
@@ -64,12 +64,12 @@ I'm a security and AI engineer. Most of my projects come down to one question: *
 - Each score comes with **feature-level explanations** showing what pushed it up or down, in an analyst dashboard.
 - **Next.js + TypeScript**, **Genkit with Gemini** for the unstructured side, Firebase, Radix UI.
 
-[Repository](https://github.com/Chandankumar775/credtech-by-chandan-kumar-)
+[Repository](https://github.com/Chandankumar775/creditclarity)
 </details>
 
 <br>
 
-<a href="https://github.com/Chandankumar775/emf-multiagent"><img src="assets/sheets/06-emf-multiagent.svg" alt="EMF Multi-Agent: one request pays a chain of AI services, step by step" width="100%"></a>
+<a href="https://github.com/Chandankumar775/algorand-agent-payments"><img src="assets/sheets/06-emf-multiagent.svg" alt="EMF Multi-Agent: one request pays a chain of AI services, step by step" width="100%"></a>
 
 <details>
 <summary><b>How it's built</b> · EMF Multi-Agent</summary>
@@ -79,12 +79,12 @@ I'm a security and AI engineer. Most of my projects come down to one question: *
 - Each step settles its own USDC micro-payment, x402-style, on Algorand testnet. The demo shows **Pending → Paying → Settled** with simulated transaction hashes.
 - **Next.js + React + TypeScript**, Recharts, Framer Motion.
 
-[Repository](https://github.com/Chandankumar775/emf-multiagent)
+[Repository](https://github.com/Chandankumar775/algorand-agent-payments)
 </details>
 
 <br>
 
-<a href="https://github.com/Chandankumar775/CharityChain"><img src="assets/sheets/07-charitychain.svg" alt="CharityChain: charity donations anyone can audit, end to end" width="100%"></a>
+<a href="https://github.com/Chandankumar775/elysian-charity"><img src="assets/sheets/07-charitychain.svg" alt="CharityChain: charity donations anyone can audit, end to end" width="100%"></a>
 
 <details>
 <summary><b>How it's built</b> · CharityChain</summary>
@@ -94,7 +94,7 @@ I'm a security and AI engineer. Most of my projects come down to one question: *
 - Every transaction is traceable on-chain, and MetaMask is used for wallets.
 - Two clients: a **Next.js** web app (ethers.js, React Query) and a **Flutter** app (web3dart).
 
-[Repository](https://github.com/Chandankumar775/CharityChain)
+[Repository](https://github.com/Chandankumar775/elysian-charity)
 </details>
 
 <br>
@@ -103,6 +103,6 @@ I'm a security and AI engineer. Most of my projects come down to one question: *
 
 <img src="assets/reel.gif" alt="Screen recording of the live deployments: TunnelScope, AURA-CV, the 3D arbitrage model, Eco-Ward, the cyber security portal and Armedias" width="100%">
 
-<sub>Also on my GitHub: [Nagrik Setu](https://github.com/Chandankumar775/nagrik-setu) (civic reporting) · [Eco-Ward](https://new-delhi-dashboard-eco-ward.vercel.app) (Delhi air quality) · [URL scanner](https://github.com/Chandankumar775/url-scanner-) · [CVE explainer](https://github.com/Chandankumar775/-cve-explainer-ml) · [Neighbour Energy Exchange](https://github.com/Chandankumar775/free_transaction_to-my-neighbour-)</sub>
+<sub>Also on my GitHub: [Nagrik Setu](https://github.com/Chandankumar775/nagrik-setu) (civic reporting) · [Eco-Ward](https://new-delhi-dashboard-eco-ward.vercel.app) (Delhi air quality) · [URL scanner](https://github.com/Chandankumar775/url-shield-api) · [CVE explainer](https://github.com/Chandankumar775/cve-explainer) · [Neighbour Energy Exchange](https://github.com/Chandankumar775/gridmatrix-energy-trading)</sub>
 
 <sub>Delhi, India</sub>
